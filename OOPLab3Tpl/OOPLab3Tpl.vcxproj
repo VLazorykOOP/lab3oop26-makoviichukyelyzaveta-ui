@@ -139,11 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Lab3Example.cpp" />
     <ClCompile Include="OOPLab3Tpl.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Lab3Example.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
